@@ -2,130 +2,171 @@
 
 # Artem Okhten
 
-### Applied Mathematics @ Florida Tech  
-### Machine Learning · Software Engineering · Full-Stack Systems
+### Applied Mathematics @ Florida Tech
+**Machine Learning & Software Engineering**
 
-I build reliable, interpretable, and practical systems by combining **mathematical reasoning**, **machine learning**, and **software engineering**.
+Building full-stack systems, real-time applications, and ML/XAI projects with an applied-mathematics foundation.
 
-<p>
-  <a href="https://okhten.com"><b>Portfolio</b></a> ·
-  <a href="https://okhten.com/resume"><b>Resume Page</b></a> ·
-  <a href="https://okhtengroup.com/en"><b>Okhten Group LLC</b></a> ·
-  <a href="https://eecaa-website.vercel.app"><b>EECAA Platform</b></a> ·
-  <a href="https://www.linkedin.com/in/artem-okhten"><b>LinkedIn</b></a>
-</p>
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-okhten.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://okhten.com/)
+[![Resume](https://img.shields.io/badge/Resume-View%20Online-374151?style=for-the-badge&logo=readme&logoColor=white)](https://okhten.com/resume)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-artem--okhten-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-okhten)
 
 </div>
 
 ---
 
-## Profile
+<table>
+<tr>
+<td align="center" width="25%">
+<strong>B.S. Applied Mathematics</strong><br/>
+<sub>Florida Institute of Technology</sub>
+</td>
+<td align="center" width="25%">
+<strong>May 2027</strong><br/>
+<sub>Expected graduation</sub>
+</td>
+<td align="center" width="25%">
+<strong>3.69 / 4.00</strong><br/>
+<sub>GPA</sub>
+</td>
+<td align="center" width="25%">
+<strong>Miami, FL</strong><br/>
+<sub>Location</sub>
+</td>
+</tr>
+</table>
 
-I am an Applied Mathematics student focused on machine learning, explainable AI, statistical modeling, real-time systems, and full-stack software engineering.
+## Recruiter Snapshot
 
-My work connects mathematical structure with practical implementation: ML experiments, production-minded web systems, backend workflows, and real-time platforms built for actual users and organizations.
-
----
-
-## Current Work
-
-### Okhten Group LLC  
-**Founder / Full-Stack Developer**  
-[okhtengroup.com](https://okhtengroup.com/en)
-
-I founded **Okhten Group LLC**, a Florida-based web studio where I build business-facing web systems for small local businesses.
-
-The technical focus is on mobile-friendly websites, local SEO infrastructure, contact and booking workflows, lead-capture flows, structured metadata, deployment, and lightweight digital systems that help businesses present themselves more professionally online.
-
----
-
-### EECAA Platform  
-**Founder & President / Full-Stack Engineer**  
-[eecaa-website.vercel.app](https://eecaa-website.vercel.app)
-
-I founded and currently lead **EECAA**, a university student organization with **50+ active members**.
-
-I also engineered the platform behind it, including content workflows, event and media management, role-based access control, admin dashboards, and backend logic for organization operations.
-
----
-
-## Technical Direction
-
-**Machine Learning & Explainable AI**  
-Model evaluation, feature engineering, CNN interpretability, saliency methods, Grad-CAM, Integrated Gradients, and counterfactual explanations.
-
-**Full-Stack Systems**  
-Next.js applications, backend workflows, REST APIs, Supabase, PostgreSQL, authentication, admin dashboards, and user-facing web platforms.
-
-**Real-Time Engineering**  
-WebSockets, Supabase Realtime, session synchronization, multiplayer state handling, and low-latency interaction design.
-
-**Applied Mathematics**  
-Linear algebra, probability, statistics, optimization, numerical methods, and structured problem solving.
+- **Software engineering:** production web systems, role-based access control, PostgreSQL security, realtime synchronization, CI, and E2E testing
+- **Machine learning / XAI:** PyTorch, CNNs, clustering, saliency methods, counterfactual explanations, and model-sensitivity analysis
+- **Applied mathematics:** probability & statistics, linear algebra, optimization, numerical methods, and data analysis
+- **Real-world scope:** led software for a **50+ member** organization, tested a multiplayer platform with **70+ concurrent users**, and tutored **300+ students**
 
 ---
 
-## Technologies
+## Experience
 
-**Languages:** Python · TypeScript · JavaScript · SQL · R · MATLAB  
-**Machine Learning:** PyTorch · Scikit-Learn · Pandas · NumPy  
-**Frontend:** React · Next.js · HTML · CSS · Tailwind CSS  
-**Backend & Data:** Node.js · REST APIs · Supabase · PostgreSQL  
-**Realtime:** WebSockets · Supabase Realtime  
-**Tools:** Git · Docker · Linux/Bash · AWS  
+<table>
+<tr>
+<td width="29%" valign="top">
 
----
+**Okhten Group LLC**  
+<sub>May 2026 – Present</sub>
 
-## Core Concepts
+</td>
+<td valign="top">
 
-**ML / Data:** Feature Engineering · Model Evaluation · Clustering · Classification  
-**XAI:** Grad-CAM · Integrated Gradients · Saliency · Counterfactual Explanations  
-**Systems:** Data Modeling · Role-Based Access Control · State Synchronization · Admin Workflows  
-**Engineering:** Debuggability · Maintainability · Scalability · Clear Architecture  
+**Founder / Full-Stack Developer**
 
----
+Built and launched production websites with multilingual pages, canonical metadata, sitemaps, lead-capture workflows, and third-party integrations.
 
-## Highlights
+Owned contact, booking, analytics, application architecture, deployment, and technical delivery.
 
-- Built organization software supporting **50+ active EECAA members**
-- Built real-time multiplayer systems tested with **70+ concurrent users**
-- Provided mathematics and physics tutoring support to **300+ students**
-- Founded **Okhten Group LLC** and launched business-facing web systems
-- Built ML/XAI projects around chess-position modeling, clustering, saliency, and counterfactual analysis
-- GPA: **3.69 / 4.00**
+</td>
+</tr>
 
----
+<tr>
+<td width="29%" valign="top">
 
-## Pinned Work
+**EECAA — Florida Tech**  
+<sub>Jan 2026 – Present</sub>
 
-The pinned repositories on this profile show selected work across:
+</td>
+<td valign="top">
 
-- Business-facing web systems
-- Full-stack platforms
-- Machine learning and explainable AI
-- Real-time multiplayer architecture
-- Numerical linear algebra
-- Practical user-facing tools
+**Founder & President / Full-Stack Engineer**
 
-For complete context, project explanations, and resume:
+Founded and currently lead a **50+ member** organization while engineering its full-stack platform for automated news, events, and media management.
 
-**Portfolio:** [okhten.com](https://okhten.com)  
-**Resume Page:** [okhten.com/resume](https://okhten.com/resume)  
-**Business:** [okhtengroup.com](https://okhtengroup.com/en)  
-**EECAA:** [eecaa-website.vercel.app](https://eecaa-website.vercel.app)
+Built a custom rich-text editor, backend concurrency handling, role-based access control, and administrative dashboards.
 
----
+</td>
+</tr>
 
-## Philosophy
+<tr>
+<td width="29%" valign="top">
 
-> A system is not complete unless it can be understood, debugged, extended, and trusted under pressure.
+**Florida Tech SSSC**  
+<sub>Sep 2024 – Present</sub>
 
-I care about clear structure, predictable behavior, and engineering decisions that survive real use.
+</td>
+<td valign="top">
 
-<div align="center">
+**Math and Physics Tutor**
+
+Tutored **300+ students** in calculus, linear algebra, differential equations, statistics, and physics.
+
+</td>
+</tr>
+</table>
 
 ---
 
-**Applied Mathematics · Machine Learning · Software Engineering**
+## Technical Skills
 
-</div>
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-D97706?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### ML & AI
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6D28D9?style=flat-square)
+![CNNs](https://img.shields.io/badge/CNNs-7C3AED?style=flat-square)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI-8B5CF6?style=flat-square)
+![Grad-CAM](https://img.shields.io/badge/Grad--CAM-A855F7?style=flat-square)
+![Integrated Gradients](https://img.shields.io/badge/Integrated%20Gradients-C026D3?style=flat-square)
+![Counterfactual Explanations](https://img.shields.io/badge/Counterfactual%20Explanations-9333EA?style=flat-square)
+![Saliency](https://img.shields.io/badge/Saliency-7E22CE?style=flat-square)
+![PCA](https://img.shields.io/badge/PCA-2563EB?style=flat-square)
+![K-Means](https://img.shields.io/badge/K--Means-1D4ED8?style=flat-square)
+![DBSCAN](https://img.shields.io/badge/DBSCAN-1E40AF?style=flat-square)
+
+### Engineering & Systems
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-111827?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111111)
+![Row-Level Security](https://img.shields.io/badge/Row--Level%20Security-065F46?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-047857?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux / Bash](https://img.shields.io/badge/Linux%20%2F%20Bash-FCC624?style=flat-square&logo=linux&logoColor=111111)
+
+---
+
+## Repository Guide
+
+| If you want to evaluate... | Open | What to look for |
+| --- | --- | --- |
+| **Full-stack architecture & security** | [ResidentPark OS](https://github.com/Darhaal/ResidentPark-OS-Demo) | Multi-role workflows, server-side RBAC, PostgreSQL RLS, transactional operations, audit workflows, security/E2E testing |
+| **Realtime engineering** | [Darhaal Games](https://github.com/Darhaal/Darhaal-Games) | 70+ concurrent-user testing, low-latency state synchronization, shared gameplay logic, extensible multiplayer architecture |
+| **Deep learning & XAI** | [Chess Counterfactual XAI](https://github.com/Darhaal/Chess-CNN-Counterfactual-XAI) | One-piece interventions, prediction flips, material distance, model sensitivity, gradient-saliency baseline |
+| **Unsupervised ML** | [Chess Structure Clustering](https://github.com/Darhaal/Chess-Structure-Clustering) | PCA, K-Means, GMM, agglomerative clustering, DBSCAN, engineered structural/dynamic features |
+| **Applied mathematics** | [PageRank Numerical Linear Algebra](https://github.com/Darhaal/PageRank-Numerical-Linear-Algebra) | Sparse power iteration, eigenvector methods, dangling-node correction, numerical verification |
+
+> **Note:** active development for some production projects happens in private repositories; public repositories are curated technical showcases.
+
+---
+
+## Education & Leadership
+
+**Florida Institute of Technology** — B.S. Applied Mathematics, expected May 2027  
+**GPA:** 3.69 / 4.00  
+**Coursework:** Probability & Statistics · Linear Algebra · Optimization · Machine Learning · Data Analysis · Algorithms
+
+**Honors:** Dean's List · Phi Eta Sigma Honor Society  
+**Languages:** English — Fluent · Ukrainian — Native · Russian — Native
