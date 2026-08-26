@@ -51,8 +51,28 @@ Building full-stack systems, real-time applications, and ML/XAI projects with an
 <tr>
 <td width="29%" valign="top">
 
+**Softengi**  
+<sub>Jul 2026 - Present</sub>
+
+</td>
+<td valign="top">
+
+**Intern**
+
+Contributing to the development and evaluation of AI-powered applications within an R&D environment.
+
+Working with Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, vector search, and AI testing and evaluation workflows.
+
+Collaborating with engineers on validation, debugging, and iterative improvement of AI systems.
+
+</td>
+</tr>
+
+<tr>
+<td width="29%" valign="top">
+
 **Okhten Group LLC**  
-<sub>May 2026 – Present</sub>
+<sub>May 2026 - Present</sub>
 
 </td>
 <td valign="top">
@@ -69,26 +89,8 @@ Owned contact, booking, analytics, application architecture, deployment, and tec
 <tr>
 <td width="29%" valign="top">
 
-**EECAA — Florida Tech**  
-<sub>Jan 2026 – Present</sub>
-
-</td>
-<td valign="top">
-
-**Founder & President / Full-Stack Engineer**
-
-Founded and currently lead a **50+ member** organization while engineering its full-stack platform for automated news, events, and media management.
-
-Built a custom rich-text editor, backend concurrency handling, role-based access control, and administrative dashboards.
-
-</td>
-</tr>
-
-<tr>
-<td width="29%" valign="top">
-
 **Florida Tech SSSC**  
-<sub>Sep 2024 – Present</sub>
+<sub>Sep 2024 - Present</sub>
 
 </td>
 <td valign="top">
@@ -116,6 +118,10 @@ Tutored **300+ students** in calculus, linear algebra, differential equations, s
 
 ### ML & AI
 
+![Large Language Models](https://img.shields.io/badge/LLMs-111827?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-1F2937?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-374151?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-4B5563?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6D28D9?style=flat-square)
@@ -164,9 +170,16 @@ Tutored **300+ students** in calculus, linear algebra, differential equations, s
 
 ## Education & Leadership
 
-**Florida Institute of Technology** — B.S. Applied Mathematics, expected May 2027  
+**Florida Institute of Technology** - B.S. Applied Mathematics, expected May 2027  
 **GPA:** 3.69 / 4.00  
 **Coursework:** Probability & Statistics · Linear Algebra · Optimization · Machine Learning · Data Analysis · Algorithms
 
+**EECAA - Eastern European & Central Asian Students Association**  
+**Founder & President / Full-Stack Engineer** · Jan 2026 - Present
+
+Founded and currently lead a **50+ member** student organization at Florida Tech while developing its full-stack web platform using Next.js, TypeScript, Supabase, and PostgreSQL.
+
+Built content-management workflows, authentication, role-based access control, and administrative systems supporting the organization's events, news, media, and campus operations.
+
 **Honors:** Dean's List · Phi Eta Sigma Honor Society  
-**Languages:** English — Fluent · Ukrainian — Native · Russian — Native
+**Languages:** English - Fluent · Ukrainian - Native · Russian - Native
