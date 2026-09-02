@@ -183,3 +183,28 @@ Built content-management workflows, authentication, role-based access control, a
 
 **Honors:** Dean's List · Phi Eta Sigma Honor Society  
 **Languages:** English - Fluent · Ukrainian - Native · Russian - Native
+
+---
+
+## Shipped and Running
+
+Beyond the repositories above, **[okhten.com](https://okhten.com)** hosts ten browser tools I built, maintain and operate in production — a colour explorer covering the full hex space, PDF and image workspaces, a QR code generator, a favicon generator and an ebook reader.
+
+Every one of them does its work client-side: files are read, processed and written back on the visitor's own device and never uploaded. That constraint is the interesting part of the engineering — batch image compression, PDF merging and splitting, EPUB parsing and ICO encoding all run in WebAssembly and Canvas rather than on a server, which means no upload wait, no queue and no copy left behind.
+
+| | |
+| --- | --- |
+| **Portfolio and projects** | [okhten.com](https://okhten.com) |
+| **Full resume** | [okhten.com/resume](https://okhten.com/resume) |
+| **The tools** | [okhten.com/tools](https://okhten.com/tools) |
+| **Company** | [okhtengroup.com](https://okhtengroup.com) — Okhten Group LLC |
+
+---
+
+<div align="center">
+
+**Open to 2027 full-time SWE / ML / Data roles.**
+
+[artem@okhten.com](mailto:artem@okhten.com) · [LinkedIn](https://www.linkedin.com/in/artem-okhten) · [okhten.com](https://okhten.com)
+
+</div>
