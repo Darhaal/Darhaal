@@ -38,7 +38,7 @@ Building full-stack systems, real-time applications, and ML/XAI projects with an
 
 ## Recruiter Snapshot
 
-- **Software engineering:** production web systems, role-based access control, PostgreSQL security, realtime synchronization, CI, and E2E testing
+- **Software engineering:** production web systems, CRM development, API integration, role-based access control, PostgreSQL security, realtime synchronization, CI, and E2E testing
 - **Machine learning / XAI:** PyTorch, CNNs, clustering, saliency methods, counterfactual explanations, and model-sensitivity analysis
 - **Applied mathematics:** probability & statistics, linear algebra, optimization, numerical methods, and data analysis
 - **Real-world scope:** led software for a **50+ member** organization, tested a multiplayer platform with **70+ concurrent users**, and tutored **300+ students**
@@ -57,7 +57,7 @@ Building full-stack systems, real-time applications, and ML/XAI projects with an
 </td>
 <td valign="top">
 
-**Intern**
+**AI R&D Intern**
 
 Contributing to the development and evaluation of AI-powered applications within an R&D environment.
 
@@ -71,13 +71,31 @@ Collaborating with engineers on validation, debugging, and iterative improvement
 <tr>
 <td width="29%" valign="top">
 
+**Dataslab**  
+<sub>Jun 2026 - Aug 2026 · Part-time</sub>
+
+</td>
+<td valign="top">
+
+**Front-End Developer**
+
+Contributed to the development of a CRM platform using Vue.js and Nuxt.js as part of the front-end development team.
+
+Developed the system's reference data and task assignment modules and integrated front-end functionality with back-end APIs.
+
+</td>
+</tr>
+
+<tr>
+<td width="29%" valign="top">
+
 **Okhten Group LLC**  
 <sub>May 2026 - Present</sub>
 
 </td>
 <td valign="top">
 
-**Founder / Full-Stack Developer**
+**Founder / Full-Stack Engineer**
 
 Built and launched production websites with multilingual pages, canonical metadata, sitemaps, lead-capture workflows, and third-party integrations.
 
@@ -139,6 +157,8 @@ Tutored **300+ students** in calculus, linear algebra, differential equations, s
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-111827?style=flat-square)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square)
@@ -172,7 +192,7 @@ Tutored **300+ students** in calculus, linear algebra, differential equations, s
 
 **Florida Institute of Technology** - B.S. Applied Mathematics, expected May 2027  
 **GPA:** 3.69 / 4.00  
-**Coursework:** Probability & Statistics · Linear Algebra · Optimization · Machine Learning · Data Analysis · Algorithms
+**Coursework:** Probability & Statistics · Linear Algebra · Optimization · Numerical Analysis · Machine Learning · Statistical Modeling
 
 **EECAA - Eastern European & Central Asian Students Association**  
 **Founder & President / Full-Stack Engineer** · Jan 2026 - Present
@@ -188,9 +208,9 @@ Built content-management workflows, authentication, role-based access control, a
 
 ## Shipped and Running
 
-Beyond the repositories above, **[okhten.com](https://okhten.com)** hosts ten browser tools I built, maintain and operate in production — a colour explorer covering the full hex space, PDF and image workspaces, a QR code generator, a favicon generator and an ebook reader.
+Beyond the repositories above, **[okhten.com](https://okhten.com)** hosts ten browser tools I built, maintain, and operate in production — a colour explorer covering the full hex space, PDF and image workspaces, a QR code generator, a favicon generator, and an ebook reader.
 
-Every one of them does its work client-side: files are read, processed and written back on the visitor's own device and never uploaded. That constraint is the interesting part of the engineering — batch image compression, PDF merging and splitting, EPUB parsing and ICO encoding all run in WebAssembly and Canvas rather than on a server, which means no upload wait, no queue and no copy left behind.
+Every one of them does its work client-side: files are read, processed, and written back on the visitor's own device and never uploaded. That constraint is the interesting part of the engineering — batch image compression, PDF merging and splitting, EPUB parsing, and ICO encoding all run in WebAssembly and Canvas rather than on a server, which means no upload wait, no queue, and no copy left behind.
 
 | | |
 | --- | --- |
